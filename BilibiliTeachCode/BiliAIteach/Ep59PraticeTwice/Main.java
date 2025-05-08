@@ -1,0 +1,15 @@
+package BilibiliTeachCode.Ep59PraticeTwice;
+
+public class Main {
+    public static void main(String[] args) {
+        Movie[] movies=new Movie[4];
+        movies[0]=new Movie(1,"米奇17號","羅伯·派汀森",2025);
+        movies[1]=new Movie(2,"無痛先生","傑克·奎德",2025);
+        movies[2]=new Movie(3,"命中註定那頭鵝","詹懷雲",2025);
+        movies[3]=new Movie(4,"風之谷","西亞·李畢福",1984);
+
+        Operation op=new Operation(movies);
+        op.printAll();
+        op.queryTheOne();
+    }
+}

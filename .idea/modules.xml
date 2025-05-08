@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BilibiliTeachCode/BiliJAVA/BiliJAVA.iml" filepath="$PROJECT_DIR$/BilibiliTeachCode/BiliJAVA/BiliJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BilibiliTeachCode/BilibiliTeachCode.iml" filepath="$PROJECT_DIR$/BilibiliTeachCode/BilibiliTeachCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BilibiliTeachCode/Practice/Practice.iml" filepath="$PROJECT_DIR$/BilibiliTeachCode/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolTeachCode/SchoolCheckList/SchoolCheckList.iml" filepath="$PROJECT_DIR$/SchoolTeachCode/SchoolCheckList/SchoolCheckList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolTeachCode/SchoolTeachCode.iml" filepath="$PROJECT_DIR$/SchoolTeachCode/SchoolTeachCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/練習檔.iml" filepath="$PROJECT_DIR$/.idea/練習檔.iml" />
+    </modules>
+  </component>
+</project>
